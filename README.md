@@ -11,7 +11,7 @@ hookio-mongodb
 ### Hook config.json settings
 
 ```js
-{
+"mongodb": {
     "host": "localhost" || ["x.x.x.x", "y.y.y.y"],
     "port": 27017,
     "db_name": "your_db",
