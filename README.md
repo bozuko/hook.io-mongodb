@@ -1,12 +1,14 @@
 # Hook.io Mongodb - Monitor mongodb with hook.io
 
 ## Install
-git clone git@github.com:bozuko/hook.io-mongodb.git
-cd cpu
-npm install
+
+    git clone git@github.com:bozuko/hook.io-mongodb.git
+    cd cpu
+    npm install
 
 ## Run
-hookio-mongodb
+
+    hookio-mongodb
 
 ### Hook config.json settings
 
