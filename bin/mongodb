@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var Mongodb = require('../lib/mongodb');
+
+var mongodb = new Mongodb({
+  name: "mongodb-hook",
+  debug: true
+});
+
+mongodb.start();
